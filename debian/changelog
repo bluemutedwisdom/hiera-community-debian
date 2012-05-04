@@ -1,0 +1,5 @@
+hiera (0.3.0.24-1) unstable; urgency=low
+
+  * Initial release of upstream 0.3.0.24
+
+ -- Puppet Labs Release Key (Puppet Labs Release Key) <info@puppetlabs.com>  Fri, 04 May 2012 20:43:22 +0000
